@@ -1,0 +1,6 @@
+c:\users\ian james fannon\documents\visual studio 2015\Projects\Reading_From_File\Reading_From_File\bin\Debug\Reading_From_File.exe.config
+C:\Users\Ian James Fannon\documents\visual studio 2015\Projects\Reading_From_File\Reading_From_File\bin\Debug\Reading_From_File.exe
+C:\Users\Ian James Fannon\documents\visual studio 2015\Projects\Reading_From_File\Reading_From_File\bin\Debug\Reading_From_File.pdb
+C:\Users\Ian James Fannon\documents\visual studio 2015\Projects\Reading_From_File\Reading_From_File\obj\Debug\Reading_From_File.csprojResolveAssemblyReference.cache
+C:\Users\Ian James Fannon\documents\visual studio 2015\Projects\Reading_From_File\Reading_From_File\obj\Debug\Reading_From_File.exe
+C:\Users\Ian James Fannon\documents\visual studio 2015\Projects\Reading_From_File\Reading_From_File\obj\Debug\Reading_From_File.pdb
